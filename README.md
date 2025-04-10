@@ -36,7 +36,7 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
 
 ## 설치 (Installation)
 
-1. [릴리스 페이지](https://github.com/your-repo/cwDuXplorer/releases)에서 최신 버전을 다운로드하세요.
+1. [릴리스 페이지](https://github.com/ImWanderMaker/cwDuxplorer/releases)에서 최신 버전을 다운로드하세요.
 2. 다운로드한 실행 파일(`cwDuXplorer.exe`)을 실행하여 설치 없이 바로 사용 가능합니다.
 
 > **참고**: Windows 10 이상에서 최적화되어 있습니다.
@@ -69,4 +69,4 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
 
 ## 연락처 (Contact)
 
-질문이나 피드백이 있다면 [이메일](mailto:ocean99blue@gmail.com) 또는 [이슈 트래커](https://github.com/your-repo/cwDuXplorer/issues)로 연락 주세요.
+질문이나 피드백이 있다면 [이메일](mailto:ocean99blue@gmail.com) 또는 [이슈 트래커](https://github.com/ImWanderMaker/cwDuxplorer/issues)로 연락 주세요.
