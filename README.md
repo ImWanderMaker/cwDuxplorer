@@ -45,6 +45,8 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
 
 ## 사용법 (Usage)
 
+### 한국어
+
 **cwDuXplorer**는 윈도우 탐색기와 유사한 인터페이스로 기본적인 파일 작업(복사, 이동, 삭제 등)을 동일하게 지원합니다. 추가로, 듀얼 패널과 바로가기 기능을 통해 더 효율적인 파일 관리를 제공합니다.
 
 - **듀얼 패널**:
@@ -63,6 +65,27 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
     - **순서 변경**: 관리 버튼을 `Ctrl` 키와 함께 클릭하면 바로가기 버튼의 순서를 조정할 수 있습니다.
 
 자세한 사용법은 [여기](path/to/documentation)에서 확인하세요.
+
+### English
+
+**cwDuXplorer** offers an interface similar to Windows Explorer, supporting standard file operations (copy, move, delete, etc.) with the same ease. Additionally, its dual-panel layout and shortcut feature enhance file management efficiency.
+
+- **Dual Panels**:
+  - Open different folders in the left and right panels to compare or transfer files.
+  - Drag and drop files for quick copying or moving.
+
+- **Shortcut Feature**:
+  - **Shortcut Toolbar**: Located at the top by default, this toolbar lets you bookmark frequently used paths for quick access. You can drag it to the left, right, bottom, or top of the window.
+  - **Shortcut Buttons**: Left-click a button to open its path in the left panel; right-click to open it in the right panel.
+  - **Shortcut Management**:
+    - **Add**: Click the management button (leftmost on the toolbar). A left-click adds the current left panel’s path as a shortcut; a right-click adds the right panel’s path.
+    - **Edit/Delete**: Hold `Ctrl` and click (left or right) a shortcut button to open a context menu, where you can:
+      - **Edit**: Open a dialog to modify the button’s name and path. Save to update the toolbar.
+      - **Delete**: Remove the selected shortcut.
+      - **Copy Path**: Copy the shortcut’s path to the clipboard.
+    - **Reorder**: Hold `Ctrl` and click the management button to rearrange the shortcut buttons.
+
+For detailed instructions, see [here](path/to/documentation).
 
 ---
 
