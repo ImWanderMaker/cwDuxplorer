@@ -34,6 +34,8 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
 
 ---
 
+## 설치 (Installation)
+
 ### 한국어
 
 **cwDuXplorer**는 별도의 설치 과정 없이 간단히 실행할 수 있는 휴대용 파일 탐색기입니다. 아래 단계에 따라 시작하세요.
