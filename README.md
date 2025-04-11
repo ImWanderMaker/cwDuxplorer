@@ -34,12 +34,31 @@ Interested? Download **cwDuXplorer** and experience more efficient file manageme
 
 ---
 
-## 설치 (Installation)
+### 한국어
 
-1. [릴리스 페이지](https://github.com/ImWanderMaker/cwDuxplorer/releases)에서 최신 버전을 다운로드하세요.
-2. 다운로드한 실행 파일(`cwDuXplorer.exe`)을 실행하여 설치 없이 바로 사용 가능합니다.
+**cwDuXplorer**는 별도의 설치 과정 없이 간단히 실행할 수 있는 휴대용 파일 탐색기입니다. 아래 단계에 따라 시작하세요.
 
-> **참고**: Windows 10 이상에서 최적화되어 있습니다.
+1. [릴리스 페이지](https://github.com/your-repo/cwDuXplorer/releases)에서 최신 버전의 압축 파일을 다운로드하세요.
+2. 다운로드한 압축 파일을 해제한 후 `cwDuXplorer.exe`를 실행하면 바로 사용 가능합니다.
+
+**시스템 요구 사항**:
+- 운영체제: Windows 10 이상
+- .NET Framework 4.8 이상
+
+자세한 정보는 [여기](path/to/documentation)를 참고하세요.
+
+### English
+
+**cwDuXplorer** is a portable file explorer that runs without installation. Follow these steps to get started.
+
+1. Download the latest version’s zip file from the [releases page](https://github.com/your-repo/cwDuXplorer/releases).
+2. Extract the zip file and run `cwDuXplorer.exe` to launch the program.
+
+**System Requirements**:
+- Operating System: Windows 10 or later
+- .NET Framework 4.8 or higher
+
+For more details, see [here](path/to/documentation).
 
 ---
 
